@@ -1,0 +1,8 @@
+.weather-cards{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 150px;
+    justify-content: center;
+}
